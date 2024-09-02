@@ -1,0 +1,9 @@
+select
+    store_id,
+    total_sales,
+    year,
+    month,
+    day,
+    weekday
+from
+	sales_analytics.view_abt_train_renatolf1;
